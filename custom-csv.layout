@@ -1,0 +1,1 @@
+\format[GetOpenOfficeType]{\bibtextype},"\format[AuthorLastFirst,AuthorAndsReplacer,RemoveBrackets,RemoveWhitespace,Replace(\n, ),Replace("\",)]{\author}","\format[RemoveBrackets,RemoveWhitespace,Replace(\n, )]{\title}",\year,"\format[Default()]{\mendeley-tags}"
